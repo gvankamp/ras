@@ -1,6 +1,5 @@
 ras <- function(m, colgoal, rowgoal, iterations = 5000){
  
-  
   repeat{
   
     m <-  diag(getrowcor(m, rowgoal)) %*% m
