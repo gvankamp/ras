@@ -4,6 +4,9 @@
 # Example code in package build process
 *-Ex.R
 
+# RStudio files
+.Rproj.user/
+
 # R data files from past sessions
 .Rdata
 
@@ -53,3 +56,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+.Rproj.user
