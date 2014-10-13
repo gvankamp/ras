@@ -1,5 +1,15 @@
-ras
-===
+ras algorithm in R
+===================
 
-rAs algorithm for matrix balancing in R. A pre-defined matrix is balanced towards chosen row and collumn totals using subsequent horizontal and vertical multiplications.
+This is a simple implementation of the rAs algorithm in R. A pre-defined matrix is transformed towards chosen row and collumn totals using subsequent horizontal and vertical multiplications.
+
+See also: [link](https://en.wikipedia.org/wiki/Iterative_proportional_fitting)
+
+future ideas
+------------
+
+* input/output
+* forecasting tools
+
+
 
