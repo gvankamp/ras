@@ -1,4 +1,4 @@
-ras <- function(m, colgoal, rowgoal, iterations = 5000){
+ras <- function(m, colgoal, rowgoal, iterations = 100){
  
   repeat{
   
