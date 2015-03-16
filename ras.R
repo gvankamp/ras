@@ -14,7 +14,7 @@ ras <- function(m, colgoal, rowgoal, iterations = 100){
     iterations <- iterations - 1
     if(iterations == 0) break
   }
-  t(m)
+  m
 }
 
 getcolcor <- function(m, colgoal){
