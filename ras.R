@@ -1,5 +1,6 @@
+# basic function, takes a matrix and the target vectors as arguments
 ras <- function(m, colgoal, rowgoal, iterations = 100){
-
+ 
   ## check input, if dataframe -> convert to matrix
   if(class(m)!="matrix") 
   
